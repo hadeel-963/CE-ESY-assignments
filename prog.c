@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
-#define SIZE 6
+#define SIZE 12
 typedef struct{
 char buffer[SIZE];
 int head;
